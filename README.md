@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **aditya3034@gmail.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
