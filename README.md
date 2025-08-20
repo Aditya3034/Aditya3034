@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya3034&label=Profile%20views&color=0e75b6&style=flat" alt="aditya3034" /> </p>
 
-- 🔭 I’m currently working on **Angular,Typescript and Firebase.**
+- 🔭 I’m currently working on **Agentic AI Application Development**
 
-- 🌱 I’m currently learning **Angular, DBMS**
 
 - 🤝 I’m looking for help with **Flutter**
 
