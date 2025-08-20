@@ -6,9 +6,6 @@
 
 - 🔭 I’m currently working on **Agentic AI Application Development**
 
-
-- 🤝 I’m looking for help with **Flutter**
-
 - 📫 How to reach me **aditya3034@gmail.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
